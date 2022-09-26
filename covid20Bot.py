@@ -28,4 +28,4 @@ async def on_message(message) :
         await message.channel.send('ตลกหรอไอสัส!!!')
 
 
-bot.run('ODgzNzQ3NjM0NjA5ODExNDY3.YTOcHw.uezTFkqreJQNQam7P4EYSggZmr0') 
+bot.run('Token') 
